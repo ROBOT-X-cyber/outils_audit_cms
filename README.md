@@ -1,22 +1,16 @@
 Liste des outils pour l'audit des cms (merci à M0N5T3R)
 
 Wordpress
-WpscaN Project https://github.com/04x/WpscaN
-wpscan https://github.com/wpscanteam/wpscan
-wordpresscan https://github.com/swisskyrepo/Wordpresscan
-wpseku https://github.com/m4ll0k/WPSeku
-
-Zoom https://github.com/gcxtx/Zoom
-
-wordpress-exploit-framework https://github.com/rastating/wordpress-exploit-framework
-
-Vane github: https://github.com/delvelabs/vane
-
-Plescot https://code.google.com/archive/p/plecost/downloads
-
-WPhunter https://github.com/Jamalc0m/wphunter
-
-wpbf - WordPress Brute Force https://github.com/atarantini/wpbf
+ WpscaN Project https://github.com/04x/WpscaN
+ wpscan https://github.com/wpscanteam/wpscan
+ wordpresscan https://github.com/swisskyrepo/Wordpresscan
+ wpseku https://github.com/m4ll0k/WPSeku
+ Zoom https://github.com/gcxtx/Zoom
+ wordpress-exploit-framework https://github.com/rastating/wordpress-exploit-framework
+ Vane github: https://github.com/delvelabs/vane
+ Plescot https://code.google.com/archive/p/plecost/downloads
+ WPhunter https://github.com/Jamalc0m/wphunter
+ wpbf - WordPress Brute Force https://github.com/atarantini/wpbf
 
 WPForce https://github.com/n00py/WPForce
 
