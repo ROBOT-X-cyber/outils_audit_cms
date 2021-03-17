@@ -2,11 +2,8 @@ Liste des outils pour l'audit des cms (merci à M0N5T3R)
 
 Wordpress
 WpscaN Project https://github.com/04x/WpscaN
-
 wpscan https://github.com/wpscanteam/wpscan
-
 wordpresscan https://github.com/swisskyrepo/Wordpresscan
-
 wpseku https://github.com/m4ll0k/WPSeku
 
 Zoom https://github.com/gcxtx/Zoom
